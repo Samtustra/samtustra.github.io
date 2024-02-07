@@ -1,1 +1,1 @@
-# samtustra.github.io
+# Hello! Astronomer and computer scientist
