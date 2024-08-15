@@ -1,3 +1,3 @@
-# Hello! Astronomer and computer scientist
+# Hello! Astronomy undergraduate
 
 ## Currently learning pandas
